@@ -1,0 +1,7 @@
+ant_number 9
+iteration_number 200
+pheromone_start_value 0.1
+pheromone_evaporation 0.5
+pheromone_influence 1.5
+length_influence 5
+const_Q 100
